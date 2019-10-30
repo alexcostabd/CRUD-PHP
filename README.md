@@ -1,2 +1,2 @@
 # CRUD-PHP.
-Formulário como inserção de dados em tabelas MySQL.
+Formulário para inserção de dados em tabelas MySQL.
